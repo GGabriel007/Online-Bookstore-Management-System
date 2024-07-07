@@ -1,0 +1,1 @@
+user_credentials = [{'UID': 1, 'password': 'user1pass'}, {'UID': 2, 'password': 'user2pass'}, {'UID': 3, 'password': 'user3pass'}, {'UID': 4, 'password': 'user4pass'}, {'UID': 5, 'password': 'user5pass'}, {'UID': 6, 'password': 'user6pass'}, {'UID': 7, 'password': 'user7pass'}, {'UID': 8, 'password': 'user8pass'}, {'UID': 9, 'password': '123'}, {'UID': 10, 'password': '123'}]
